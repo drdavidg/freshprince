@@ -1,0 +1,14 @@
+h1 {
+  color:red;
+}
+body {
+  background-color: green;
+  text-align: center;
+}
+p {
+  font-family: serif;
+  font-size: 18px;
+}
+ul {
+  text-align: left;
+}
